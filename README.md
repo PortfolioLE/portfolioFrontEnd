@@ -1,3 +1,3 @@
 # portfolioFrontEnd
 Frontend del portfolio.
-![DER del proyecto](https://drive.google.com/file/d/1YESUmFmR_8uBvrlr-i09B1mwWrGyfoPt/view)
+![protfolioED](https://github.com/user-attachments/assets/cce02fb9-bbe7-4ed7-9b12-d36cb56b0648)
