@@ -1,4 +1,4 @@
 # portfolioFrontEnd
 Frontend del portfolio.
-![DER del proyecto](https://drive.google.com/file/d/1YESUmFmR_8uBvrlr-i09B1mwWrGyfoPt/view?usp=sharing)
-https://drive.google.com/file/d/1YESUmFmR_8uBvrlr-i09B1mwWrGyfoPt/view?usp=sharing
+![DER del proyecto](https://drive.google.com/file/d/1YESUmFmR_8uBvrlr-i09B1mwWrGyfoPt/view?usp=drive_link)
+
