@@ -1,7 +1,7 @@
 # portfolioFrontEnd
 Frontend del portfolio.
 
-# Lo que queremos en este Porfolio Web
+# Lo que quiero en este Porfolio Web
 
 Se deberá desarrollar una página web que funcione como un portafolio digital, permitiendo la visualización de proyectos previamente realizados. La plataforma contará con dos tipos de usuarios:
 
