@@ -17,4 +17,4 @@ Cada proyecto en el portafolio deberá contener:
 * Descripción
 El diseño deberá ser intuitivo y atractivo, asegurando una buena experiencia de usuario. Además, la administración de proyectos deberá estar protegida para que solo los usuarios con permisos de administrador puedan realizar modificaciones.
 
-![protfolioED](https://github.com/user-attachments/assets/cce02fb9-bbe7-4ed7-9b12-d36cb56b0648)
+![diagrama entidad Portafolio](https://github.com/user-attachments/assets/468595a6-106f-473a-a0ac-95f97da45ae1)
